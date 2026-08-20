@@ -4,7 +4,7 @@ class Program1{
       
            String[] s={"1","Mohan","Ram"};
 
-     System.out.println("This is main method");
+     System.out.println("This is main method"+s);
   }
 
 }
